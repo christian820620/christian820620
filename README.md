@@ -1,40 +1,25 @@
 # Hi, I'm Christian Fernandez 👋
 
-I'm a Software Engineering student at Florida Gulf Coast University with experience in SAP Security, enterprise IT, software development, data engineering, cloud technologies, and cybersecurity.
+I'm a Software Engineering student at **Florida Gulf Coast University** with experience in SAP Security, enterprise IT, software development, data engineering, and cloud technologies.
 
 ## 🎯 Career Interests
 
-I'm interested in entry-level and early-career opportunities involving:
-
 * Software Engineering
-* IT / Systems Engineering
-* Cybersecurity
+* Cybersecurity & IT
 * SAP / Enterprise Applications
-* Cloud Engineering
-* Data Engineering
-* Application Development
-* 
-### Languages
+* Cloud & Data Engineering
 
-Python • C • C++ • SQL • JavaScript • HTML • CSS • Assembly
+## 🛠️ Technical Skills
 
-### Development Tools
+**Languages:** Java • Python • C • C++ • SQL • JavaScript • HTML • CSS • Assembly
 
-Git • GitHub • VS Code • Jira • Confluence • Linux 
+**Tools & Technologies:** Git • GitHub • Linux • AWS • PostgreSQL • Supabase • Power BI • Jira • Confluence
+
+**Areas:** SAP Security • Access Management • Data Engineering • Cloud Computing • IoT
 
 ## 📚 Currently Learning
 
-I'm currently continuing to improve my knowledge of:
-
-* Data Structures & Algorithms
-* Java and Object-Oriented Programming
-* JavaScript and Web Development
-* Operating Systems
-* Software Testing
-* Software Architecture
-* Git & GitHub
-* Cloud Computing
-* Cybersecurity
+Data Structures & Algorithms • Java/OOP • JavaScript • Operating Systems • Software Testing • Software Architecture
 
 ## 📫 Connect With Me
 
