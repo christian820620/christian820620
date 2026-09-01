@@ -2,23 +2,21 @@
 
 I'm a Software Engineering student at Florida Gulf Coast University with experience in SAP Security, enterprise IT, software development, data engineering, cloud technologies, and cybersecurity.
 
-I'm currently building my technical skills through internships, university projects, personal projects, and hands-on development.
+## 🎯 Career Interests
 
-## 👨‍💻 About Me
+I'm interested in entry-level and early-career opportunities involving:
 
-* 🎓 Software Engineering student at **Florida Gulf Coast University**
-* 💻 Interested in **Software Engineering, Cybersecurity, Cloud Computing, Enterprise IT, and Data Engineering**
-* 📊 Experience working with healthcare data, SQL, PostgreSQL, Supabase, and Power BI
-
-## 🛠️ Technical Skills
-
+* Software Engineering
+* IT / Systems Engineering
+* Cybersecurity
+* SAP / Enterprise Applications
+* Cloud Engineering
+* Data Engineering
+* Application Development
+* 
 ### Languages
 
 Python • C • C++ • SQL • JavaScript • HTML • CSS • Assembly
-
-### Data & Analytics
-
-SQL • PostgreSQL • Power BI • Data Engineering • Data Visualization
 
 ### Development Tools
 
@@ -37,18 +35,6 @@ I'm currently continuing to improve my knowledge of:
 * Git & GitHub
 * Cloud Computing
 * Cybersecurity
-
-## 🎯 Career Interests
-
-I'm interested in entry-level and early-career opportunities involving:
-
-* Software Engineering
-* IT / Systems Engineering
-* Cybersecurity
-* SAP / Enterprise Applications
-* Cloud Engineering
-* Data Engineering
-* Application Development
 
 ## 📫 Connect With Me
 
