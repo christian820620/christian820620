@@ -9,13 +9,12 @@ I'm currently building my technical skills through internships, university proje
 * 🎓 Software Engineering student at **Florida Gulf Coast University**
 * 💻 Interested in **Software Engineering, Cybersecurity, Cloud Computing, Enterprise IT, and Data Engineering**
 * 📊 Experience working with healthcare data, SQL, PostgreSQL, Supabase, and Power BI
-* 🧠 Currently strengthening my skills in **Java, JavaScript, Data Structures, Algorithms, and Software Development**
 
 ## 🛠️ Technical Skills
 
 ### Languages
 
-Java • Python • C • C++ • SQL • JavaScript • HTML • CSS • Assembly
+Python • C • C++ • SQL • JavaScript • HTML • CSS • Assembly
 
 ### Data & Analytics
 
