@@ -13,13 +13,9 @@ I'm a Software Engineering student at **Florida Gulf Coast University** with exp
 
 **Languages:** Java • Python • C • C++ • SQL • JavaScript • HTML • CSS • Assembly
 
-**Tools & Technologies:** Git • GitHub • Linux • AWS • PostgreSQL • Supabase • Power BI • Jira • Confluence
+**Tools & Technologies:** Git • GitHub • Linux • AWS • PostgreSQL • Supabase • Power BI • Jira 
 
 **Areas:** SAP Security • Access Management • Data Engineering • Cloud Computing • IoT
-
-## 📚 Currently Learning
-
-Data Structures & Algorithms • Java/OOP • JavaScript • Operating Systems • Software Testing • Software Architecture
 
 ## 📫 Connect With Me
 
