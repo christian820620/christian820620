@@ -11,7 +11,7 @@ I'm a Software Engineering student at **Florida Gulf Coast University** with exp
 
 ## 🛠️ Technical Skills
 
-**Languages:** Java • Python • C • C++ • SQL • JavaScript • HTML • CSS • Assembly
+**Languages:** Python • C • C++ • SQL • JavaScript • HTML • CSS • Java • Assembly
 
 **Tools & Technologies:** Git • GitHub • Linux • AWS • PostgreSQL • Supabase • Power BI • Jira 
 
