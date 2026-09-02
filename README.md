@@ -20,5 +20,3 @@ I'm a Software Engineering student at **Florida Gulf Coast University** with exp
 ## 📫 Connect With Me
 
 💼 **LinkedIn:** https://www.linkedin.com/in/christianfernandezcfcf/
-
-💻 **GitHub:** https://github.com/christian820620
