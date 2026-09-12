@@ -5,8 +5,8 @@ I'm a Software Engineering student at **Florida Gulf Coast University** with exp
 ## 🎯 Career Interests
 
 * Software Engineering
-* Cybersecurity & IT
 * SAP / Enterprise Applications
+* Cybersecurity & IT
 * Cloud & Data Engineering
 
 ## 🛠️ Technical Skills
